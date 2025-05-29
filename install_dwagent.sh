@@ -2,6 +2,8 @@
 # install_dwagent.sh — download and install DWAgent in console mode
 set -euo pipefail
 
+echo "####### This repository is managed by Rajesh Roy <rajeshroy402@gmail.com> #######>"
+
 echo "Downloading DWAgent installer…"
 cd /usr/src
 sudo wget -N https://www.dwservice.net/download/dwagent.sh
