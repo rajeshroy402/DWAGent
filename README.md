@@ -17,5 +17,5 @@ A pair of simple bash scripts to install and uninstall DWAgent (DWService) on Ub
 
 1. Clone this repo to your device:  
    ```bash
-   git clone https://github.com/<your-username>/dwagent-scripts.git
+   git clone https://github.com/rajeshroy402/dwagent-scripts.git
    cd dwagent-scripts
